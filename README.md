@@ -9,7 +9,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://ryan13091.github.io/run-buddy/
+https://ryan13091.github.io/run-buddy-updated/
 
 ## Contribution
 Made by Ryan Vincent
